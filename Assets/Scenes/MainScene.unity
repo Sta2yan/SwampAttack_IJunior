@@ -1104,13 +1104,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _waves:
   - Enemy: {fileID: 3013373550399752340, guid: 0b3094b3f6e49884699839aec7a92cb6, type: 3}
-    Delay: 5
-    TimeToNextWave: 0.5
+    Delay: 0.5
+    TimeToNextWave: 5
     Count: 5
-  - Enemy: {fileID: 3013373550399752340, guid: 0b3094b3f6e49884699839aec7a92cb6, type: 3}
-    Delay: 3
-    TimeToNextWave: 0
-    Count: 10
   _spawnPoint: {fileID: 807009020}
   _target: {fileID: 2128361187}
 --- !u!1 &839687885
